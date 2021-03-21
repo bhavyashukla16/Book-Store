@@ -108,7 +108,7 @@ function deleteAllBtn(){
     if($result){
         while($row = mysqli_fetch_assoc($result)){
             $i++;
-            if($i>3){
+            if($i > 3){
             buttonElement("deleteAll","btn-deleteAll","btn btn-danger", "<i class='fas fa-trash'></i> Delete All", "");
             return; 
             }

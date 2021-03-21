@@ -9,6 +9,7 @@
                         <input type=\"text\" class=\"form-control\" 
                         name='$name'
                         value='$value'
+                        autocomplete=\"off\"
                         id=\"inlineFormInputGroup\" placeholder='$placeholder'>
                         </div>
         
