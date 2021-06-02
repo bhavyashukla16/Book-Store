@@ -72,7 +72,7 @@
                             <tbody>
                                 <?php
                                     
-                                    if( isset($_POST['read'])){
+                                    //if( isset($_POST['read'])){
                                         $result = getData();
 
                                         if($result){
@@ -87,7 +87,7 @@
                                             <?php    
                                             }
                                         }
-                                    }
+                                    //}
                                 
                                 ?>
                             </tbody>
