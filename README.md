@@ -8,4 +8,6 @@ To run this Application on your system follow these steps-
 4) Now go to localhost/(Append the path of the folder where you downloaded the code) OR just go to localhost/ and there you will find the folder where you downloaded the code just click on that, and you are good to go!
 5) For MySQL got to localhost/phpmyadmin and there you will find the book-store database with the table books created.
 
-![alt text](https://github.com/bhavyashukla16/My-Portfolio/blob/master/src/images/Book-store-cropped.png?raw=true)
+<img src="https://github.com/bhavyashukla16/My-Portfolio/blob/master/src/images/Book-store-cropped.png?raw=true" alt="drawing" width="700px" style="margin:100px"/>
+
+<!--  ![alt text](https://github.com/bhavyashukla16/My-Portfolio/blob/master/src/images/Book-store-cropped.png?raw=true)  -->
